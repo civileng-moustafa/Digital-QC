@@ -34,11 +34,11 @@ This application helps civil engineers and researchers analyze and evaluate conc
 ## Project Structure
 
 Digital-QC/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-└── screenshots/
+
+ -app.py
+ -README.md
+ -requirements.txt
+ -screenshots
 
 ## How to Run
 
